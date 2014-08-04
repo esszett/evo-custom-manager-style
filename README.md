@@ -1,5 +1,5 @@
-Custom Manager theme for MODX Evolution.
-========================================
+MODX Evolution Manager theme
+============================
 
 ![screenshot](https://raw.github.com/fourroses666/evo-custom-manager-style/master/screenshot.png)
 
