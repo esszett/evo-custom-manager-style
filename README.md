@@ -1,12 +1,10 @@
-evo-custom-manager-style
-========================
-
-Back-end custom style for MODX Evolution
+Custom Manager theme for MODX Evolution.
+========================================
 
 ![screenshot](https://raw.github.com/fourroses666/evo-custom-manager-style/master/screenshot.png)
 
-A manager theme for MODX Evolution.
-Also take a look at evo-custom-login-page (comming soon)
+Also take a look at evo-custom-login which belongs together (http://github.com/fourroses666/evo-custom-manager-login)
+
 
 ## Requirements
 
@@ -15,13 +13,14 @@ Also take a look at evo-custom-login-page (comming soon)
 ## Installation
 
  * Upload directory "evo-custom-manager-style" to "/manager/media/style/"
- * Login your MODX manager and go to Tools > Configuration > Interface & Features > Manager Theme. Choose "evo-custom-manager-style" and save.
+ * Login your MODX manager and go to Tools > Configuration > Interface & Features > Manager Theme. 
+ * Choose "EvoCustomManager" and save.
  
 ## Updates
  
 ### 04.08.2014
 
- * Added read me and screenshot
+ * Added read me, screenshot and some minor changes
 
 ## Contributor
 
@@ -29,4 +28,4 @@ Also take a look at evo-custom-login-page (comming soon)
  * Ryota Mannari  (http://github.com/manse)
 
 
-This is originally build by Ryota Mannari and customised by me.
+This is originally build by Ryota Mannari and customised by me so most of the credits go to Manse :)
