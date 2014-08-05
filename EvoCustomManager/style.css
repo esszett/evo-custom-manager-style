@@ -1719,8 +1719,8 @@ ul.actionButtons {
 }
 
 .actionButtons a img {display:none;}
-.searchbar .actionButtons a img {display:block!important;}
-#tabTemp .actionButtons a img {display:block;}
+.searchbar .actionButtons a img {display:inline-block!important;}
+#tabTemp .actionButtons a img {display:inline-block;}
 
 .actionButtons a:hover {
 	border-color:#fff;
