@@ -965,6 +965,8 @@ a.hometblink,a.hometblink:active,a.hometblink:visited,a.hometblink:link,.hometbl
 	text-decoration:underline;
 	color:#333;
 	font-weight:700;
+	display: block;
+    padding-top: 25px;
 }
 
 a.hometblink:hover {
@@ -1501,13 +1503,13 @@ a.hometblink,a.hometblink img {
 
 .wm_button {
 	float:left;
-	margin:0 5px 2px 12px;
+	margin:0 24px 2px 0;
 	text-align:center;
 }
 
 .rtl .wm_button {
 	float:right;
-	margin:0 5px 2px 6px;
+	margin:0 0 2px 24px;
 }
 
 /* -------------------------[ Welcome Page ]--- */
@@ -2213,4 +2215,4 @@ strong[style*='color:#EF1D1D'] {
 .tabIntro strong{display:none;}
 #content_body.sectionBody .warning{padding-left:10px;}
 #content_body.sectionBody select#which_editor{margin-top:4px;}
-#welcomePane h1{padding-left:0;}
+#welcomePane h1{padding-left:0; padding-top:0;}
