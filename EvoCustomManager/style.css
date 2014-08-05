@@ -2213,3 +2213,4 @@ strong[style*='color:#EF1D1D'] {
 .tabIntro strong{display:none;}
 #content_body.sectionBody .warning{padding-left:10px;}
 #content_body.sectionBody select#which_editor{margin-top:4px;}
+#welcomePane h1{padding-left:0;}
