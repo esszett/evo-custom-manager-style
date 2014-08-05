@@ -1790,7 +1790,7 @@ ul.actionButtons {
 	background:-o-linear-gradient(#749c2f,#4b7109);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#749c2f,endColorstr=#4b7109);
 }
-
+.searchbar .actionButtons a img{display:inline-block;}
 
 #loadingmask {
 	display: none;
