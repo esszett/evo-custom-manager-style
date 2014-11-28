@@ -79,9 +79,11 @@ li,dd,blockquote {
 
 .warning {
 	color:#444;
-	font-weight:700;
+	font-weight:bold;
 	font-size:12px;
 }
+
+.warning b{font-weight:bold;}
 
 .success {
 	color:#090;
