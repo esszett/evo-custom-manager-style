@@ -595,14 +595,14 @@ input.submit {
 
 /* -------------------------[ Misc stuff ]--- */
 .sectionBody fieldset {
-//	background: none repeat scroll 0 0 #FFFFFF;
-//	border: 1px solid #CCCCCC;
+/*	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #CCCCCC; */
 	font-size: 12px;
 	padding: 15px !important;
 }
 .sectionBody legend {
 	font-size: 14px;
-	font-weight: bold;
+	font-weight: normal;
 	padding: 5px 15px;
 	background: #fff;
 	border: 1px solid #ccc;
